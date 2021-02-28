@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 int main(void)
 {
@@ -54,5 +53,4 @@ int main(void)
     }
     printf("Total Correct Answers:%d\n", c);
     printf("out of 10");
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 }
