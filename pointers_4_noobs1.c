@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<stdio.h>
 
 int main() {
@@ -78,4 +77,3 @@ int main() {
     printf("x = %d\n", x);
 
 }
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
