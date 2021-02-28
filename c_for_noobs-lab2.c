@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <string.h>
 
@@ -368,5 +367,4 @@ int isRepeat(char name[20]) {
         } 
     }
        return val;
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 } //end of isRepeat function
