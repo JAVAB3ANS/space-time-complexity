@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // a simple C program to introduce a linked list
 // a linked list
 
@@ -796,5 +795,4 @@ int main() {
         printf("\nIterative node count is: %d\nRecursive node count is: %d", getNodeCountIteratively(head), getNodeCountRecursively(head)); 
 
         return 0;
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 } 
