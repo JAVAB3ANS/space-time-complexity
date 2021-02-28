@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<stdio.h>
 
 int main() {
@@ -70,5 +69,4 @@ int main() {
     // p -> address
     // *p -> value at address
 
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 }
