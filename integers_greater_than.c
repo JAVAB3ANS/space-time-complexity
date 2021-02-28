@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # include <stdio.h>
 # define lowEnd 2
 # define highEnd 7
@@ -50,5 +49,4 @@ int main() {
     return 0;
 }
 
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 //prints There are 5 total numbers greater than 2.
