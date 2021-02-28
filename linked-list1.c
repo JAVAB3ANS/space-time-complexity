@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <assert.h>
 #include <stddef.h>
 #include <stdlib.h>
@@ -558,5 +557,4 @@ Why don't we need to free memory in the pop/dequeue operation?
   on how we declare our area. If each element is specialized to have
   its own memory block, that's fine but it can't do it with more 
   elements in the same memory.
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 */
