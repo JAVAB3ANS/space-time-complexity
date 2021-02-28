@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //Intro to Linked Lists (in C)
 
 #include <stdlib.h>
@@ -86,5 +85,4 @@ int main() {
   tracker = node_append(tracker, 3);
   node_print(first);
   node_free(first);
->>>>>>> a1f0e4f928b8b36dff7eee61d39c3b63cd2ced71
 }
